@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="JsonReference" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="JsonSchema" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="OpenApiJsonUnusedRefInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="OpenApiYamlUnusedRefInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SwaggerJsonUnusedRefInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SwaggerYamlUnusedRefInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="YamlReference" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="YamlSchema" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>

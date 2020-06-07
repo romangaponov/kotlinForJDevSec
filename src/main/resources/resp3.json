@@ -1,0 +1,444 @@
+{
+  "domains": [
+    {
+      "uuid": "54d0de87-99a2-4771-9c33-e9ac4ebf5fb1",
+      "fields": [
+        {
+          "uuid": "61421c5b-31cc-4f94-b870-7288963ec459",
+          "expectedSources": [
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceData",
+              "serviceUuid": "4ea7ba09-0dcb-4a71-a0d7-7bee59a199b9",
+              "title": "KonturFokus"
+            },
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceRecognizer",
+              "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+              "title": "Sum&Substance"
+            }
+          ],
+          "fieldValues": [
+            {
+              "uuid": "d6c58683-f19f-4dca-b69c-66889ec874d8",
+              "source": {
+                "type": "participant",
+                "updatedAt": "2020-04-30T11:52:41.719Z",
+                "subType": "participant",
+                "authorUuid": "b975d6b0-f06d-4c42-8a73-504455cb18a1",
+                "title": "First user"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "ООО \"ПЛАТИНВЕК\""
+              },
+              "isPriority": true
+            },
+            {
+              "uuid": "6596f83a-5728-4597-bf5b-6d97f44a52ea",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:21.028954Z",
+                "subType": "serviceData",
+                "serviceUuid": "4ea7ba09-0dcb-4a71-a0d7-7bee59a199b9",
+                "title": "KonturFokus"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "ООО \"ПЛАТИНВЕК\""
+              },
+              "isPriority": false
+            },
+            {
+              "uuid": "868eaf4e-08be-4b6c-b68e-be5c9afbb5b8",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:25.12162Z",
+                "subType": "serviceRecognizer",
+                "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+                "title": "Sum&Substance"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕФСЕРВИСЦЕНТР\""
+              },
+              "isPriority": false
+            }
+          ],
+          "settings": null,
+          "pos": 3,
+          "code": "legal_name_short"
+        },
+        {
+          "uuid": "615d7731-9e7a-411c-9f76-30e53efd418f",
+          "expectedSources": [
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceData",
+              "serviceUuid": "4ea7ba09-0dcb-4a71-a0d7-7bee59a199b9",
+              "title": "KonturFokus"
+            },
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceRecognizer",
+              "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+              "title": "Sum&Substance"
+            }
+          ],
+          "fieldValues": [
+            {
+              "uuid": "289901ec-534f-4dc2-83f5-1dec04585798",
+              "source": {
+                "type": "participant",
+                "updatedAt": "2020-04-30T11:52:41.719Z",
+                "subType": "participant",
+                "authorUuid": "b975d6b0-f06d-4c42-8a73-504455cb18a1",
+                "title": "First user"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "773001001"
+              },
+              "isPriority": true
+            },
+            {
+              "uuid": "e0594d4c-658d-4a51-b034-751fb183e3ee",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:21.028954Z",
+                "subType": "serviceData",
+                "serviceUuid": "4ea7ba09-0dcb-4a71-a0d7-7bee59a199b9",
+                "title": "KonturFokus"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "773001001"
+              },
+              "isPriority": false
+            },
+            {
+              "uuid": "611d6813-0604-4263-ba37-f8f8312c3968",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:25.12162Z",
+                "subType": "serviceRecognizer",
+                "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+                "title": "Sum&Substance"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "332801001"
+              },
+              "isPriority": false
+            }
+          ],
+          "settings": null,
+          "pos": 2,
+          "code": "kpp"
+        },
+        {
+          "uuid": "882f9690-3a8c-4c23-b3e5-d792abbfa4fd",
+          "expectedSources": [
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceData",
+              "serviceUuid": "e9a062ff-9bf1-4d8a-b39c-5a852269f232",
+              "title": "ATI"
+            },
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceRecognizer",
+              "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+              "title": "Sum&Substance"
+            }
+          ],
+          "fieldValues": [
+            {
+              "uuid": "39830c19-2019-4c78-a805-6000940b92d3",
+              "source": {
+                "type": "participant",
+                "updatedAt": "2020-04-30T11:52:41.719Z",
+                "subType": "participant",
+                "authorUuid": "b975d6b0-f06d-4c42-8a73-504455cb18a1",
+                "title": "First user"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "9718092100"
+              },
+              "isPriority": true
+            },
+            {
+              "uuid": "d0119845-2b0f-4baf-a8bf-c1ffb2008656",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:21.028954Z",
+                "subType": "serviceData",
+                "serviceUuid": "4ea7ba09-0dcb-4a71-a0d7-7bee59a199b9",
+                "title": "KonturFokus"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "9718092100"
+              },
+              "isPriority": false
+            },
+            {
+              "uuid": "45523db3-ac1e-4ea4-b3ea-e6d600c82a2b",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:21.08349Z",
+                "subType": "serviceData",
+                "serviceUuid": "e9a062ff-9bf1-4d8a-b39c-5a852269f232",
+                "title": "ATI"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "9718092100"
+              },
+              "isPriority": false
+            },
+            {
+              "uuid": "39c74f0c-e4b3-43bb-8afe-f85a4cd0d10f",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:25.12162Z",
+                "subType": "serviceRecognizer",
+                "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+                "title": "Sum&Substance"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "3328451659"
+              },
+              "isPriority": false
+            }
+          ],
+          "settings": null,
+          "pos": 1,
+          "code": "inn"
+        },
+        {
+          "uuid": "8b4eba03-9fbf-4dad-a263-7a5db9a1af36",
+          "expectedSources": [
+            {
+              "type": "participant",
+              "updatedAt": null,
+              "subType": "participant",
+              "authorUuid": null,
+              "title": "Participant"
+            }
+          ],
+          "fieldValues": [
+            {
+              "uuid": "e1fc7c0c-93aa-432d-91d2-789e7041e950",
+              "source": {
+                "type": "participant",
+                "updatedAt": "2020-04-30T11:51:16.645Z",
+                "subType": "participant",
+                "authorUuid": "b975d6b0-f06d-4c42-8a73-504455cb18a1",
+                "title": "First user"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "12311111111111111111"
+              },
+              "isPriority": true
+            }
+          ],
+          "settings": null,
+          "pos": 23,
+          "code": "payment_account"
+        },
+        {
+          "uuid": "bc11b480-04b7-431c-ad56-990772dafa1b",
+          "expectedSources": [
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceData",
+              "serviceUuid": "4ea7ba09-0dcb-4a71-a0d7-7bee59a199b9",
+              "title": "KonturFokus"
+            },
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceRecognizer",
+              "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+              "title": "Sum&Substance"
+            }
+          ],
+          "fieldValues": [
+            {
+              "uuid": "c35f54df-3f79-4779-98b5-a01799000ddb",
+              "source": {
+                "type": "participant",
+                "updatedAt": "2020-04-30T11:52:41.719Z",
+                "subType": "participant",
+                "authorUuid": "b975d6b0-f06d-4c42-8a73-504455cb18a1",
+                "title": "First user"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "1187746310652"
+              },
+              "isPriority": true
+            },
+            {
+              "uuid": "8cfa200e-2f9b-4093-ad0a-c05c7842e0c7",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:21.028954Z",
+                "subType": "serviceData",
+                "serviceUuid": "4ea7ba09-0dcb-4a71-a0d7-7bee59a199b9",
+                "title": "KonturFokus"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "1187746310652"
+              },
+              "isPriority": false
+            },
+            {
+              "uuid": "51a33956-47e7-46a3-a1d4-7e3e981bd520",
+              "source": {
+                "type": "serviceData",
+                "updatedAt": "2020-05-05T11:45:25.12162Z",
+                "subType": "serviceRecognizer",
+                "serviceUuid": "b502e999-419c-4fb7-bb8d-6d915ef2dcc7",
+                "title": "Sum&Substance"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "1073328004617"
+              },
+              "isPriority": false
+            }
+          ],
+          "settings": null,
+          "pos": 4,
+          "code": "ogrn"
+        },
+        {
+          "uuid": "c27ac4a6-5672-459b-87d7-efa3dba74dae",
+          "expectedSources": [
+            {
+              "type": "serviceData",
+              "updatedAt": null,
+              "subType": "serviceData",
+              "serviceUuid": "930fb7de-31bd-4f7f-9d98-ea7ee23fa273",
+              "title": "BIK-info"
+            },
+            {
+              "type": "participant",
+              "updatedAt": null,
+              "subType": "participant",
+              "authorUuid": null,
+              "title": "Participant"
+            }
+          ],
+          "fieldValues": [
+            {
+              "uuid": "45fd740d-5812-4017-adb2-1c1f862a5f5a",
+              "source": {
+                "type": "participant",
+                "updatedAt": "2020-04-30T11:27:42.619373Z",
+                "subType": "participant",
+                "authorUuid": "b975d6b0-f06d-4c42-8a73-504455cb18a1",
+                "title": "First user"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "044525225"
+              },
+              "isPriority": false
+            },
+            {
+              "uuid": "23fc4430-d9e1-44d7-9370-989cb0febe5c",
+              "source": {
+                "type": "participant",
+                "updatedAt": "2020-04-30T11:51:16.646Z",
+                "subType": "domainOwner",
+                "authorUuid": "c79e165a-f8f0-4554-a2fe-fec94c38293c",
+                "title": "Чиркунов Виктор Владимировна"
+              },
+              "data": {
+                "valueType": "TEXT",
+                "value": "044525225"
+              },
+              "isPriority": true
+            }
+          ],
+          "settings": null,
+          "pos": 24,
+          "code": "bik"
+        }
+      ],
+      "links": [
+        {
+          "uuid": "61421c5b-31cc-4f94-b870-7288963ec459",
+          "docs": [
+            {
+              "uuid": "25b409d5-84d1-4840-becf-3e12863c865e",
+              "cardFieldValueUuid": "868eaf4e-08be-4b6c-b68e-be5c9afbb5b8",
+              "fileUuid": "5b79681d-5e4e-4b79-a8b8-213dd5ccbea3",
+              "docTypeUuid": "3ce307ec-ce3b-4fd2-a124-b63167a9e7f6",
+              "docTypeCode": "PARTICIPANT",
+              "docTypeTitle": "reg_doc_types__inn",
+              "createdAt": "2020-04-30T11:27:42.661Z"
+            }
+          ]
+        },
+        {
+          "uuid": "615d7731-9e7a-411c-9f76-30e53efd418f",
+          "docs": [
+            {
+              "uuid": "25b409d5-84d1-4840-becf-3e12863c865e",
+              "cardFieldValueUuid": "611d6813-0604-4263-ba37-f8f8312c3968",
+              "fileUuid": "5b79681d-5e4e-4b79-a8b8-213dd5ccbea3",
+              "docTypeUuid": "3ce307ec-ce3b-4fd2-a124-b63167a9e7f6",
+              "docTypeCode": "PARTICIPANT",
+              "docTypeTitle": "reg_doc_types__inn",
+              "createdAt": "2020-04-30T11:27:42.661Z"
+            }
+          ]
+        },
+        {
+          "uuid": "882f9690-3a8c-4c23-b3e5-d792abbfa4fd",
+          "docs": [
+            {
+              "uuid": "25b409d5-84d1-4840-becf-3e12863c865e",
+              "cardFieldValueUuid": "39c74f0c-e4b3-43bb-8afe-f85a4cd0d10f",
+              "fileUuid": "5b79681d-5e4e-4b79-a8b8-213dd5ccbea3",
+              "docTypeUuid": "3ce307ec-ce3b-4fd2-a124-b63167a9e7f6",
+              "docTypeCode": "PARTICIPANT",
+              "docTypeTitle": "reg_doc_types__inn",
+              "createdAt": "2020-04-30T11:27:42.661Z"
+            }
+          ]
+        },
+        {
+          "uuid": "bc11b480-04b7-431c-ad56-990772dafa1b",
+          "docs": [
+            {
+              "uuid": "25b409d5-84d1-4840-becf-3e12863c865e",
+              "cardFieldValueUuid": "51a33956-47e7-46a3-a1d4-7e3e981bd520",
+              "fileUuid": "5b79681d-5e4e-4b79-a8b8-213dd5ccbea3",
+              "docTypeUuid": "3ce307ec-ce3b-4fd2-a124-b63167a9e7f6",
+              "docTypeCode": "PARTICIPANT",
+              "docTypeTitle": "reg_doc_types__inn",
+              "createdAt": "2020-04-30T11:27:42.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
