@@ -1,1 +1,11 @@
 /src/main/java/Main.java
+Будет удалено .gradle/
+Будет удалено .idea/.gitignore
+Будет удалено .idea/compiler.xml
+Будет удалено .idea/gradle.xml
+Будет удалено .idea/inspectionProfiles/
+Будет удалено .idea/jarRepositories.xml
+Будет удалено .idea/misc.xml
+Будет удалено .idea/vcs.xml
+Будет удалено build/
+Будет удалено gradle/
